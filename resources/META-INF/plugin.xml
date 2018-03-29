@@ -1,0 +1,27 @@
+<idea-plugin>
+  <id>li.niwato.motivational.gif</id>
+  <name>Motivational GIF</name>
+  <version>1.0</version>
+  <vendor email="qrbys@outlook.com" url="https://github.com/howyi">howyi</vendor>
+
+  <description><![CDATA[
+     INCREASE YOUR MOTIVATION<br>
+     inspired: VSCode Motivational GIF<br>
+     https://marketplace.visualstudio.com/items?itemName=aberonni.vscode-motivational-gif#overview
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Init
+    ]]>
+  </change-notes>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <actions>
+    <action id="MotivateAction" class="MotivateAction" text="Motivate Me">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="alt M"/>
+    </action>
+  </actions>
+
+</idea-plugin>
