@@ -1,5 +1,9 @@
 # IntelliJ Motivational GIF
-**INCREASE YOUR MOTIVATION**
+                   
+<p align="center">
+  <strong>INCREASE YOUR MOTIVATION</strong>
+</p>
+                 
 ![](https://github.com/howyi/intellij-motivational-gif/blob/master/ss.gif?raw=true)
 https://plugins.jetbrains.com/plugin/10575-motivational-gif
 ### inspired by **VSCode Motivational GIF**  
